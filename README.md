@@ -6,7 +6,7 @@ Place the script into your working directory under which you have collected all 
 Verify that the TPM's are in column 4 (change variable at top if needed).
 
 Run in Linux using the following command:
-bash concatAllSalmonTPMs
+bash concatAllSalmonTPMs.bash
 
 Fix the header in your output file (allTPMs) (until it get's fixed).
 
